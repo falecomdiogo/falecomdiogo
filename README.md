@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @falecomdiogo
+- 👀 I’m interested in learning new skills and contribute with the community whenever it's possible.
+- 🌱 I’m currently learning Machine Learning models and it's applications.
+- 💞️ I’m looking to collaborate on Data Science projects.
+- 📫 How to reach me: contatodiogomoreira@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i'm actually in a journey of career transition, coming from the area of vídeo and photography!
